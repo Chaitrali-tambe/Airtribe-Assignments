@@ -1,0 +1,13 @@
+PS D:\AI-First python\Assignment 1> python main.py
+--- Borrowing Tests ---
+Alice Borrowed:  Book: Python 101 by A. Rao (ID 1)
+Could not borrow Item 'Python 101 is already borrowed.'
+Could not borrow: Member 'Bob' has reached the maximum borrowing limit of 1 items.
+
+--- Polymorphism (Late fees for 3 days) ---
+Book: Python 101 by A. Rao (ID 1) --> Late Fee for 3 Days: Rs.  6
+Magazine: NEXT_GEN TECH Issue#142 (ID 2) --> Late Fee for 3 Days: Rs.  3
+DVD: Inception (148 mins) (ID 3) --> Late Fee for 3 Days: Rs.  15
+
+-- Class Attribute Check ---
+Total items created 4
